@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SimpleAPI:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimpleAPI_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SimpleAPI/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SimpleAPI" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
